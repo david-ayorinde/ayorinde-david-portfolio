@@ -1,0 +1,21 @@
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Vercel
+.vercel/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
